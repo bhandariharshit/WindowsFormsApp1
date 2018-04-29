@@ -11,7 +11,7 @@ using System.Windows.Forms;
 namespace WindowsFormsApp1
 {
     /// <summary>
-    /// test
+    /// test new
     /// </summary>
     public partial class Form1 : Form
     {
