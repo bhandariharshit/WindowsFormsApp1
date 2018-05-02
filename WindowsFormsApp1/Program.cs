@@ -14,6 +14,7 @@ namespace WindowsFormsApp1
         [STAThread]
         static void Main()
         {
+            var a = "sasa";
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
